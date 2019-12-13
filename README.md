@@ -67,11 +67,11 @@ Fully on-line.
 
 This is the second team project for the Coding Bootcamp Tecnologico de Monterrey Developed in Mexico on June 2019 by:
 
-Mayra Cuenca
+* Mayra Cuenca
 
-Hugo Moreno
+* Hugo Moreno
 
-Jesus Colunga
+* Jesus Colunga
 
 ---
 
