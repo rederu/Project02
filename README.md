@@ -1,8 +1,6 @@
 # My Prescriptions
 
-This app was developed to fulfill doctor's needs.
-
-It manages the patients information, allows to record prescriptions and observations on each visit keeping a medical record.
+This app was developed to fulfill doctor's needs. It manages the patients information, allows to record prescriptions and observations on each visit keeping a medical record.
 
 Fully on-line.
 
@@ -67,17 +65,7 @@ Fully on-line.
 
 ----------------
 
-This is the second team project 
-
-for the Coding Bootcamp 
-
-Tecnologico de Monterrey
-
-Developed in Mexico
-
-June/2019
-
-by:
+This is the second team project for the Coding Bootcamp Tecnologico de Monterrey Developed in Mexico on June 2019 by:
 
 Mayra Cuenca
 
